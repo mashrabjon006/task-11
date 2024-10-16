@@ -1,4 +1,4 @@
-// 1. Funksiya yozing, bu funksiya berilgan sonning kvadratini qaytarsin.
+    // 1. Funksiya yozing, bu funksiya berilgan sonning kvadratini qaytarsin.
 
 // function kvadrat(arg) {
 //     for (var i = 0; i < arg.leng; i++) {
